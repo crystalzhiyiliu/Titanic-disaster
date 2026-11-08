@@ -1,6 +1,6 @@
 # Titanic datasets
-src/data/
-*.csv
+src/data/*
+!src/data/.gitkeep
 
 # Python virtual environment
 .venv/
